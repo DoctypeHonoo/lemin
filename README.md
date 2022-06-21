@@ -35,7 +35,7 @@ Après cela, le but du programme va donc être d'afficher les données recupér�
 
 ## Fonctions Autorisées : 
 
-- Toute les fonctions inclus dans la libC ou la librairie ncurses
+- read, write, malloc, free, getline
 
 ---
 
