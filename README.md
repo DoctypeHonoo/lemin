@@ -14,7 +14,7 @@ Le Lemin est un projet de milieu d'année à Epitech à réaliser à 4, dont le 
 ---
 
 ## Description :
-qu
+
 La fourmilière est donc représenté avec des pièces, connecté entre elles par des tunnels. Si deux pièces sont relié par un tunnel, alors une fourmi peut naviguer entre celles-ci.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174772818-a1645ccd-dd43-405d-9115-6b88a4f94210.png">
