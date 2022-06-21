@@ -9,7 +9,7 @@
 
 ## Motivation : 
 
-Le Lemin est un projet de milieu d'année à Epitech dont le principe est de créer un algorithme qui va calculer la manière la plus rapide pour que des fourmis arrive d'une certaine zone de la fourmilière à une autre, sachant qu'elles ne peuvent pas être plus d'une dans une "pièce" de la foumilière en même temps.
+Le Lemin est un projet de milieu d'année à Epitech à réaliser à 4, dont le principe est de créer un algorithme qui va calculer la manière la plus rapide pour que des fourmis arrive d'une certaine zone de la fourmilière à une autre, sachant qu'elles ne peuvent pas être plus d'une dans une "pièce" de la foumilière en même temps.
 
 ---
 
@@ -43,29 +43,24 @@ Après cela, le but du programme va donc être d'afficher les données recupér�
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:DoctypeHonoo/42sh.git
-$ cd 42sh
+$ git clone git@github.com:DoctypeHonoo/lemin.git
+$ cd lemin
 $ make
 ```
 Le binaire se trouvera alors à la racine du projet, et il vous suffira de le lancer comme ceci : 
 ```bash
-$ ./42sh
+$ ./lem_in [fichier]
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174632028-6e1fda10-d7cb-45e9-8c58-7c2d207b5091.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174784855-25ca060b-0305-43a5-ae40-384112362879.png">
 </p>
 
 ---
 
 ## Comment l'utiliser ? : 
 
-Le terminal **42sh** s'utilise comme tout autre terminal, il vous est possible d'utiliser n'importe quel binaire interne, tel que *ls*, *cat*, *grep*, et bien d'autre, mais aussi les fonctions builtins, tel que *cd*, *setenv*, *unsetenv* et *env*. Notre **42sh** possède aussi le *repeat*, les *alias*, les *if*, ainsi que le *where*. Un système de variable a aussi été implémenté, et est fonctionnel. Pour finir notre **42sh** dispose aussi des séparateurs ";", des redirections ">", "<", ">>", et "<<", les pipes "|" et enfin, les "&&" et les "||".
-
-Les fonctionnalités manquantes sont, certaines fonctions systèmes comme *foreach* et *which*, les globbings et les parenthèses.
-
-Pour finir, notre **42sh** dispose d'une partie "musique", avec plusieurs commande tel que *play*, *pause*, *song* qui vont permettre de jouer de la musique dans un terminal tout en continuant à l'utiliser.
+Notre lemin possède un système de parsing complet mais il ne possède malheureusement pas encore l'algorithme qui va permettre de calculer l'itinéraire des fourmis.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174633287-8bd8b8ae-a562-4978-99da-c5b08c485989.png">
-  <img src="https://user-images.githubusercontent.com/91092610/174634380-70ca82e6-a3eb-41c4-b07f-ebbfceb77f91.png">
+  <img src="https://user-images.githubusercontent.com/91092610/174785200-495420df-b660-46d6-821c-bf4df6e19674.png">
 </p>
